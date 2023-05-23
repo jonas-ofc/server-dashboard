@@ -1,0 +1,19 @@
+@font-face {
+    font-family: AssistantBold;
+    src: url("/fonts/static/Assistant-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: AssistantRegular;
+    src: url("/fonts/static/Assistant-Regular.ttf") format("truetype");
+}
+
+$bold: "font-family", AssistantBold;
+$regular: "font-family", AssistantRegular;
+
+$white: #f7f9ff;
+$oakBlue: #204561;
+$black: #212528;
+$darkGray: #2A2E31;
+$red: #FB695B;
+$blue: #42BBFF;
+$green: #48CA95;
